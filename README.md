@@ -1,2 +1,10 @@
-# helsinki-2020-git-training
-A git training repo
+ ______________________________________ 
+/ This is a training repository for an \
+| Eficode Git training course held in  |
+\ Helsinki                             /
+ -------------------------------------- 
+        \   ^__^
+         \  (oo)\_______
+            (__)\       )\/\
+                ||----w |
+                ||     ||
