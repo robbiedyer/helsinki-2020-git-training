@@ -1,3 +1,4 @@
 Moi
 
 ok.
+after config pull.rebase true
