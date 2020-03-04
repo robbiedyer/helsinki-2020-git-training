@@ -1,3 +1,4 @@
 foo
 more stuff
+bar
 more stuff
